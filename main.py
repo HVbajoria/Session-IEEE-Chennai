@@ -1,0 +1,1 @@
+print("Happy Friendship Day!!")
